@@ -2,6 +2,7 @@
 docker-compose up -d
 docker-compose ps
 docker-compose logs
+docker stats
 # Pause and Unpause
 docker-compose pause
 docker-compose unpause
